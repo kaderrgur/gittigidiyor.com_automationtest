@@ -9,7 +9,7 @@ Site üzerinde gerçekleştirilen test senaryoları:
 - Username ve password girişi yapılır.
 - Arama bölgesine bilgisayar yazılır ve aratılır.
 - Arama sonuçlarının 2. sayfasına girilir.
-- 2. sayfaya gidildiğine dair kontrol yapılır.
+- 2.sayfaya gidildiğine dair kontrol yapılır.
 - Çıkan ürünlerden rastgele seçilir.(2. ürün seçildi).
 - Sepete eklenir.
 - Ürün sayfasındaki fiyatla sepetteki fiyat karşılaştırılır.
